@@ -1,0 +1,7 @@
+{
+  "name": "From Farm To Fork",
+  "description": "A platform connecting local sustainable farmers with conscious buyers. Features real-time availability, market schedules, and AI-powered local food discovery.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
