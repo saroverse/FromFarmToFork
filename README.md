@@ -29,8 +29,8 @@ The project followed a full **Design Thinking** methodology:
 1. **Empathize** — Interviews with local farmers, surveys with student consumers
 2. **Define** — Key insight: the barrier is discoverability, not supply
 3. **Ideate** — Brainstorming sessions, stakeholder personas, empathy maps
-4. **Prototype** — Full working web app (this repository)
-5. **Test** — User testing with both farmer and consumer personas
+4. **Prototype** — building a first version of a web app (this repository)
+5. **Test** — User testing with both farmer and consumer personas (still has to be done)
 
 ---
 
@@ -48,7 +48,7 @@ The project followed a full **Design Thinking** methodology:
 | | |
 |---|---|
 | Framework | React · TypeScript · Vite |
-| AI | Google Gemini API (`gemini-pro`) |
+| AI | Google Gemini API (`gemini-pro`) | (ai features are not working, because api keys are disabled)
 | Styling | CSS Modules / Tailwind |
 | Built with | Google AI Studios |
 
